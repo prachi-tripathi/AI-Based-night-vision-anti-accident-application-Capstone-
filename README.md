@@ -1,9 +1,15 @@
 # AI-Based-night-vision-anti-accident-system
 
+# Objective
+Vehicle accidents at night due to drowsiness in drivers take thousands of lives each year worldwide, our application can help and prevent such accidents and save lives by sending alarm alerts. | Team size 4.
+
+# Tools/Techniques
+OpenCV,NumPy, Pandas, SciKit learn.
+
 # Requirements
-pip install dlib
-pip install imutils
-pip install cv2
+1. pip install dlib
+2. pip install imutils
+3. pip install cv2
 
 # Challanges to install dlib
 1. Compatibality isuess between the dlib and python versions 

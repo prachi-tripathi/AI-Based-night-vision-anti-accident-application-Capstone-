@@ -14,5 +14,5 @@ OpenCV,NumPy, Pandas, SciKit learn.
 # Challanges to install dlib
 1. Compatibality isuess between the dlib and python versions 
 2. Requirements : 64bit python, cmake, c-compiler 64bit and path should be same of all in which anaconda installed
-4. Set of path for dlib in enviornment variable.
+4. Set enviornment path variable for dlib.
 3. For more details visit https://www.learnopencv.com/install-dlib-on-windows/

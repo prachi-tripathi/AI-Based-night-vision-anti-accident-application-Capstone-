@@ -16,3 +16,8 @@ OpenCV,NumPy, Pandas, SciKit learn.
 2. Requirements : 64bit python, cmake, c-compiler 64bit and path should be same of all in which anaconda installed
 4. Set enviornment path variable for dlib.
 3. For more details visit https://www.learnopencv.com/install-dlib-on-windows/
+
+# Output
+![casesLines](./Visuals/facial_landmark.PNG)
+![casesLines](./Visuals/input.PNG)
+![casesLines](./Visuals/output.PNG)

@@ -18,6 +18,6 @@ OpenCV,NumPy, Pandas, SciKit learn.
 3. For more details visit https://www.learnopencv.com/install-dlib-on-windows/
 
 # Output
-![casesLines](./Visuals/facial_landmark.PNG)
+![casesLines](./Visuals/facial_landmark.jpg)
 ![casesLines](./Visuals/input.PNG)
 ![casesLines](./Visuals/output.PNG)
